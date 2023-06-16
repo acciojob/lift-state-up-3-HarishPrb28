@@ -1,1 +1,14 @@
+.parent {
+  padding: 40px;
+  background-color: lightgreen;
+}
 
+.childone {
+  background-color: lightcoral;
+  padding: 20px;
+}
+
+.childtwo {
+  background-color: lightsalmon;
+  padding: 20px;
+}
