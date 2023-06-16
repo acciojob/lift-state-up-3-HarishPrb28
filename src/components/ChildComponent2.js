@@ -10,7 +10,8 @@ const ChildComponent2 = (props) => {
           setOption(e.target.innerHTML);
         }}
       >
-        option 2
+        {" "}
+        Option 2
       </button>
     </div>
   );
